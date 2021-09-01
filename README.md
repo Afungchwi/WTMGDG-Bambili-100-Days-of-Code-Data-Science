@@ -7,3 +7,5 @@ Was able to print hello world and try my little if statement
 was able to create a variable give it a value hello world and printed it out
 #Day 3
 Created var placeholders and did arithmetic operations like adding multilpying modulos of two values
+#Day 4
+Manipulation in a list and getting the datatype of each element in the list
