@@ -10,4 +10,6 @@ Created var placeholders and did arithmetic operations like adding multilpying m
 #Day 4
 Manipulation in a list and getting the datatype of each element in the list
 #Day 5 
-the use of range to access a index of a range of elements in a list. Also using the index number to get the value of the element at that exact postion
+The use of range to access a index of a range of elements in a list. Also using the index number to get the value of the element at that exact postion
+#Day 6 
+Sets. operations in sets (union, intersection etc) modifying sets (updates, add, remove discard, clear)
