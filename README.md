@@ -15,3 +15,7 @@ The use of range to access a index of a range of elements in a list. Also using 
 Sets. operations in sets (union, intersection etc) modifying sets (updates, add, remove discard, clear)
 #Day 7 
 Dictionaries Accessing Dictionary Values Dictionary Keys vs. List Indices Building a Dictionary Incrementally Restrictions on Dictionary Keys Restrictions on Dictionary Values Operators and Built-in Functions Built-in Dictionary Methods
+#Day 8
+If statement
+#Day
+Whille statement
