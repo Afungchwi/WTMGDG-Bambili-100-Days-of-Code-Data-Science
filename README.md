@@ -21,3 +21,5 @@ If statement
 Whille statement
 #Day 10
 For loop, iterations: The process of looping through the objects or items in a collection iterables: An object that can be iterated over, iterator: The object that produces successive items or values from its associated iterable iter(): The built-in function used to obtain an iterator from an iterable
+#Day 11
+Revision under list and tuple
