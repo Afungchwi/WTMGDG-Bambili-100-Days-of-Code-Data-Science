@@ -25,3 +25,5 @@ For loop, iterations: The process of looping through the objects or items in a c
 Revision under list and tuple
 #Day 12 
 Revision of strings, integers, float and complex numbers
+#Day 13
+Map function Python’s map() is a built-in function that allows you to process and transform all the items in an iterable without using an explicit for loop, a technique commonly known as mapping. map() is useful when you need to apply a transformation function to each item in an iterable and transform them into a new iterable. map() is one of the tools that support a functional programming style in Python.
