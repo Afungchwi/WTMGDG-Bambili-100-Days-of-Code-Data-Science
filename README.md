@@ -29,3 +29,5 @@ Revision of strings, integers, float and complex numbers
 **Map** function Python’s map() is a built-in function that allows you to process and transform all the items in an iterable without using an explicit for loop, a technique commonly known as mapping. map() is useful when you need to apply a transformation function to each item in an iterable and transform them into a new iterable. map() is one of the tools that support a functional programming style in Python.
 #Day 14 
 **Functions** function is the relationsip bwn tow or more inputs. we use **def** to define a function with the functions name and the parameter in ()
+#Day 15
+**input**
