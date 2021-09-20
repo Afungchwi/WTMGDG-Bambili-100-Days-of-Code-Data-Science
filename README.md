@@ -31,3 +31,5 @@ Revision of strings, integers, float and complex numbers
 **Functions** function is the relationsip bwn tow or more inputs. we use **def** to define a function with the functions name and the parameter in ()
 #Day 15
 **input**
+#Day 16
+**IMport** got difficulties on the task
