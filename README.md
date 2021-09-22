@@ -32,4 +32,6 @@ Revision of strings, integers, float and complex numbers
 #Day 15
 **input**
 #Day 16
-**IMport** got difficulties on the task
+**Import** got difficulties on the task
+#Day 17
+**re module** which is used to search for strings in word and we saw some anchors like the \b \w and also quantifiers
